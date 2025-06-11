@@ -1,6 +1,6 @@
-# Crime Data Clustering App (S5 Microproject)
+# Crime Data Clustering App 
 
-This is my 5th Semester Microproject — a Flask-based web application that performs K-Means clustering on crime data to identify, analyze, and visualize crime patterns across different regions. The project aims to assist law enforcement agencies and data analysts in understanding crime distribution and hotspots to make informed decisions and strategize better policing.
+A Flask-based web application that performs K-Means clustering on crime data to identify, analyze, and visualize crime patterns across different regions. The project aims to assist law enforcement agencies and data analysts in understanding crime distribution and hotspots to make informed decisions and strategize better policing.
 
 ---
 
